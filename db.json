@@ -81,6 +81,21 @@
       "price":70000
     }
   ],
-  "users": [],
+  "users": [
+    {
+      "id":1,
+      "username":"balqis",
+      "password":"abc",
+      "role":"user",
+      
+    },
+    {
+      "id":2,
+      "username":"dara",
+      "password":"abc",
+      "role":"user",
+      
+    }
+  ],
   "transactions": []
 }
